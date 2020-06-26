@@ -1,3 +1,4 @@
+<p align="center">![GitHub Logo](https://vaynwork.com/assets/img/vaynwork_logo_transparent.png)</p>
 <h3 align="center">💚 hi i'm viri 💚</h3>
 <p align="center">welcome to my github</p>
 
