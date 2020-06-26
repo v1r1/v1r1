@@ -1,7 +1,14 @@
 <p align="center"><img src="https://github.com/v1r1/imgs-with-transparent-backgrounds/blob/master/games/gifs/john_typing.gif?raw=true" height="200"></p>
 <h3 align="center">💚 hi i'm viri 💚</h3>
 <p align="center">welcome to my github</p>
-<p align="center">check out my projects on the <a href="https://github.com/vaynwork">VAYNWORK</a> GitHub page</p>
+
+<h4>Projects I'm working on!</h4>
+<ul>
+  <li><a href="https://github.com/vaynwork/XYZ">XYZ</a></li>
+  <li><a href="https://github.com/vaynwork/knowmore">Knowmore</a></li>
+  <li><a href="https://github.com/vaynwork/gunmetal">Gunmetal</a></li>
+  <li><a href="https://github.com/vaynwork/questline">Questline</a></li>
+<ul>
 
 
 <!--
