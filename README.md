@@ -1,4 +1,4 @@
-<p align="center"><img src="https://vaynwork.com/assets/img/vaynwork_logo_transparent.png" width="200" height="200"></p>
+<p align="center"><img src="https://vaynwork.com/assets/img/discordPFP2.gif" width="200" height="200"></p>
 <h3 align="center">💚 hi i'm viri 💚</h3>
 <p align="center">welcome to my github</p>
 ---
