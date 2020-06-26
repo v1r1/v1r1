@@ -1,6 +1,9 @@
 <p align="center"><img src="https://vaynwork.com/assets/img/vaynwork_logo_transparent.png" width="200" height="200"></p>
 <h3 align="center">💚 hi i'm viri 💚</h3>
 <p align="center">welcome to my github</p>
+---
+<p align="center">check out my projects on the <a href="https://github.com/vaynwork">VAYNWORK</a> GitHub page</p>
+
 
 <!--
 **v1r1/v1r1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
