@@ -1,7 +1,6 @@
-<p align="center"><img src="https://github.com/v1r1/imgs-with-transparent-backgrounds/blob/master/games/gifs/john_typing.gif?raw=true" width="200" height="200"></p>
+<p align="center"><img src="https://github.com/v1r1/imgs-with-transparent-backgrounds/blob/master/games/gifs/john_typing.gif?raw=true" height="200"></p>
 <h3 align="center">💚 hi i'm viri 💚</h3>
 <p align="center">welcome to my github</p>
----
 <p align="center">check out my projects on the <a href="https://github.com/vaynwork">VAYNWORK</a> GitHub page</p>
 
 
