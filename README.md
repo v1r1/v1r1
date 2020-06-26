@@ -1,4 +1,5 @@
-# 💚
+<h3 align="center">💚 hi i'm viri 💚</h3>
+<p align="center">welcome to my github</p>
 
 <!--
 **v1r1/v1r1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
