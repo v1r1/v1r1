@@ -1,27 +1,11 @@
 <p align="center"><img src="https://github.com/v1r1/imgs-with-transparent-backgrounds/blob/master/games/gifs/john_typing.gif?raw=true" height="200"></p>
-<h3 align="center">💚 hi i'm viri 💚</h3>
+<h1 align="center">💚 hi i'm viri 💚</h1>
 <p align="center">welcome to my github</p>
 
-<h4>Projects I'm working on!</h4>
+<h2>Projects I'm working on!</h2>
 <ul>
-  <li><a href="https://github.com/vaynwork/XYZ">XYZ</a></li>
-  <li><a href="https://github.com/vaynwork/knowmore">Knowmore</a></li>
-  <li><a href="https://github.com/vaynwork/gunmetal">Gunmetal</a></li>
-  <li><a href="https://github.com/vaynwork/questline">Questline</a></li>
+  <li><a href="https://github.com/vaynwork/XYZ">XYZ</a> ~ A simple framework built with JS, CSS and HTML</li>
+  <li><a href="https://github.com/vaynwork/knowmore">Knowmore</a> ~ A booru-style site for tutorials and personal improvement</li>
+  <li><a href="https://github.com/vaynwork/gunmetal">Gunmetal</a> ~ A smooth theme, usable across a wide variety of programs</li>
+  <li><a href="https://github.com/vaynwork/questline">Questline</a> ~ A ever-expanding collection of interactive fiction set in the ‖‖‖‖‖‖</li>
 <ul>
-
-
-<!--
-**v1r1/v1r1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
