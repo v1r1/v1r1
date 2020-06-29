@@ -12,4 +12,4 @@
 <ul>
 
 <h2>where you can find me</h2>
-<p>mainly on <span style="color:lightblue;">twitter</span></p>
+<p>mainly on <a href="https://twitter.com/_viri_"><font color="blue">twitter</font></a></p>
