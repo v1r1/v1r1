@@ -10,3 +10,6 @@
   <li><a href="https://github.com/vaynwork/gunmetal">Gunmetal</a> ~ A smooth theme, usable across a wide variety of programs</li>
   <li><a href="https://github.com/vaynwork/questline">Questline</a> ~ A ever-expanding collection of interactive fiction set in the █████</li>
 <ul>
+
+<h2>where you can find me</h2>
+<p>mainly on <span style="color:lightblue;">twitter</span></p>
