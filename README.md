@@ -2,7 +2,7 @@
 <h1 align="center">💚 hi i'm <bold>viri</bold> 💚</h1>
 
 <p align="center">welcome to my github, check out my <a href="https://viri.space">website</a> to learn more about me</p>
-<font color="blue"><p>you can also follow me on <a href="https://twitter.com/_viri_">twitter</a> for more regular updates</p></font>
+<p align="center"><font color="blue">you can also follow me on <a href="https://twitter.com/_viri_">twitter</a> for more regular updates</font></p>
 
 <h2>things i'm working on</h2>
 <ul>
