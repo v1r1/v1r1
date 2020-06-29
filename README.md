@@ -2,6 +2,7 @@
 <h1 align="center">💚 hi i'm <bold>viri</bold> 💚</h1>
 
 <p align="center">welcome to my github, check out my <a href="https://viri.space">website</a> to learn more about me</p>
+<font color="blue"><p>you can also follow me on <a href="https://twitter.com/_viri_">twitter</a> for more regular updates</p></font>
 
 <h2>things i'm working on</h2>
 <ul>
@@ -10,6 +11,3 @@
   <li><a href="https://github.com/vaynwork/gunmetal">Gunmetal</a> ~ A smooth theme, usable across a wide variety of programs</li>
   <li><a href="https://github.com/vaynwork/questline">Questline</a> ~ A ever-expanding collection of interactive fiction set in the █████</li>
 <ul>
-
-<h2>where you can find me</h2>
-<p>mainly on <a href="https://twitter.com/_viri_"><font color="blue">twitter</font></a></p>
