@@ -3,7 +3,8 @@
 
 <p align="center">
   hey i'm <bold>viri</bold><br>
-  welcome to my github, check out my <a href="https://viri.space">website</a> to learn more about me<br>
+  welcome to my github!<br>
+  check out my <a href="https://viri.space">website</a> to learn more about me<br>
   <font color="blue">you can also follow me on <a href="https://twitter.com/_viri_">twitter</a> for more regular updates</font>
 </p>
 
