@@ -1,16 +1,14 @@
 <p align="center"><img src="https://github.com/v1r1/imgs-with-transparent-backgrounds/blob/master/games/gifs/john_typing.gif?raw=true" height="200"></p>
 <h1 align="center"></h1>
 
+```javascript
+let viri = {
+  color:'green',
+  mood:'confused',
+  age: 22
+}
+```
 <p align="center">
-<pre>
-  <code>
-    let viri = {
-      color:'green',
-      mood:'confused',
-      age: 22
-    }
-  </code>
-</pre>
   hey i'm <bold>viri</bold><br>
   welcome to my github!<br>
   check out my <a href="https://viri.space">website</a> to learn more about me<br>
