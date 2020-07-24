@@ -2,9 +2,10 @@
 
 ```javascript
 let viri = {
-  color:'green',
-  mood:'confused',
-  age: 22
+  age: 22,
+  favourite_color: 'green',
+  current_mood: 'confused',
+  favourite_games: ["fallout: new vegas","world of warcraft","prey"]
 }
 ```
 
