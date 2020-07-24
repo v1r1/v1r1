@@ -2,6 +2,15 @@
 <h1 align="center"></h1>
 
 <p align="center">
+<pre>
+  <code>
+    let viri = {
+      color:'green',
+      mood:'confused',
+      age: 22
+    }
+  </code>
+</pre>
   hey i'm <bold>viri</bold><br>
   welcome to my github!<br>
   check out my <a href="https://viri.space">website</a> to learn more about me<br>
