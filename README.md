@@ -6,6 +6,7 @@ let viri = {
   current_mood: 'tired',
   favourite_color: 'green',
   favourite_games: [ "Fallout: New Vegas", "World of Warcraft", "Prey", "NieR" ]
+  favourite_games: [ "Fallout: New Vegas", "World of Warcraft", "Prey", "NieR" ]
 }
 ```
 
@@ -17,7 +18,7 @@ let viri = {
   <li><a href="https://github.com/vuwnu/knowmore">Knowmore</a> ~ A booru-style site for tutorials and personal improvement</li>
   <li><a href="https://github.com/vuwnu/gunmetal">Gunmetal</a> ~ A smooth theme, usable across a wide variety of programs</li>
   <li><a href="https://github.com/vuwnu/questline">Questline</a> ~ A ever-expanding collection of interactive fiction set in the █████</li>
-<ul>
+</ul>
   
 <hr>
 
