@@ -3,9 +3,9 @@
 ```javascript
 let viri = {
   age: 22,
+  current_mood: 'tired',
   favourite_color: 'green',
-  current_mood: 'confused',
-  favourite_games: ["fallout: new vegas","world of warcraft","prey"]
+  favourite_games: [ "Fallout: New Vegas", "World of Warcraft", "Prey" ]
 }
 ```
 
@@ -19,7 +19,7 @@ let viri = {
   <li><a href="https://github.com/vaynwork/questline">Questline</a> ~ A ever-expanding collection of interactive fiction set in the █████</li>
 <ul>
   
-<h1 align="center"></h1>
+<hr>
 
 <p align="center">
   check out my <a href="https://viri.space">website</a> 🔷
