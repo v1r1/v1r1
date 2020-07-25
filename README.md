@@ -9,7 +9,7 @@ let viri = {
 }
 ```
 
-<h1 align="center"></h1>
+<hr>
 
 <h3>things i'm working on</h3>
 <ul>
