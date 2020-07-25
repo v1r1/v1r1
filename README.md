@@ -5,7 +5,7 @@ let viri = {
   age: 22,
   current_mood: 'tired',
   favourite_color: 'green',
-  favourite_games: [ "Fallout: New Vegas", "World of Warcraft", "Prey" ]
+  favourite_games: [ "Fallout: New Vegas", "World of Warcraft", "Prey", "NieR" ]
 }
 ```
 
