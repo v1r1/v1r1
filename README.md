@@ -12,7 +12,7 @@ let viri = {
 
 <hr>
 
-<h3>things i'm working on</h3>
+<h3 align="center">things i'm working on</h3>
 <table>
   <tr>
     <td><a href="https://github.com/vuwnu/zoon">[zoon]</a> ~ A serverless client-side framework built with JS, CSS and HTML</td>
