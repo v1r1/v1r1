@@ -6,7 +6,6 @@ let viri = {
   current_mood: 'tired',
   favourite_color: 'green',
   favourite_games: [ "Fallout: New Vegas", "World of Warcraft", "Prey", "NieR" ]
-  favourite_games: [ "Fallout: New Vegas", "World of Warcraft", "Prey", "NieR" ]
 }
 ```
 
@@ -15,12 +14,12 @@ let viri = {
 <h3 align="center">things i'm working on</h3>
 <table>
   <tr>
-    <td><a href="https://github.com/vuwnu/zoon">[zoon]</a> ~ A serverless client-side framework built with JS, CSS and HTML</td>
-    <td><a href="https://github.com/vuwnu/knowmore">Knowmore</a> ~ A booru-style site for tutorials and personal improvement</td>
+    <td><a href="https://github.com/vuwnu/zoon">[zoon]</a><br>A serverless client-side framework built with JS, CSS and HTML</td>
+    <td><a href="https://github.com/vuwnu/knowmore">Knowmore</a><br>A booru-style site for tutorials and personal improvement</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/vuwnu/gunmetal">Gunmetal</a> ~ A smooth theme, usable across a wide variety of programs</td>
-    <td><a href="https://github.com/vuwnu/questline">Questline</a> ~ A ever-expanding collection of interactive fiction set in the █████</td>
+    <td><a href="https://github.com/vuwnu/gunmetal">Gunmetal</a><br>A smooth theme, usable across a wide variety of programs</td>
+    <td><a href="https://github.com/vuwnu/questline">Questline</a><br>A ever-expanding collection of interactive fiction set in the █████</td>
   </tr>
 </table>
   
