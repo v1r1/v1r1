@@ -14,12 +14,16 @@ let viri = {
 <h3 align="center">things i'm working on</h3>
 <table>
   <tr>
-    <td><a href="https://github.com/vuwnu/zoon">[zoon]</a><br>A serverless client-side framework built with JS, CSS and HTML</td>
-    <td><a href="https://github.com/vuwnu/knowmore">Knowmore</a><br>A booru-style site for tutorials and personal improvement</td>
+    <td><a align="center" href="https://github.com/vuwnu/zoon"><h3>[zoon]</h3></a><br>
+      A serverless client-side framework built with JS, CSS and HTML</td>
+    <td><a align="center" href="https://github.com/vuwnu/knowmore">]<h3>Knowmore]</h3></a><br>
+      A booru-style site for tutorials and personal improvement</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/vuwnu/gunmetal">Gunmetal</a><br>A smooth theme, usable across a wide variety of programs</td>
-    <td><a href="https://github.com/vuwnu/questline">Questline</a><br>A ever-expanding collection of interactive fiction set in the █████</td>
+    <td><a align="center" href="https://github.com/vuwnu/gunmetal">]<h3>Gunmetal]</h3></a><br>
+      A smooth theme, usable across a wide variety of programs</td>
+    <td><a align="center" href="https://github.com/vuwnu/questline">]<h3>Questline]</h3></a><br>
+      A ever-expanding collection of interactive fiction set in the █████</td>
   </tr>
 </table>
   
