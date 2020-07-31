@@ -18,13 +18,13 @@ let viri = {
   <tr>
     <td align="center"><a href="https://github.com/vuwnu/zoon"><img width="100px" src="https://zoon.vuw.nu/favicon.png"><br>[zoon]</a><br>
       A serverless client-side framework built with JS, CSS and HTML</td>
-    <td align="center"><a href="https://github.com/vuwnu/knowmore"><img width="100px" src="https://knowmore.vuw.nu/assets/imges/favicon.png"><br>Knowmore</a><br>
+    <td align="center"><a href="https://github.com/vuwnu/knowmore"><img width="100px" src="https://knowmore.vuw.nu/assets/images/favicon.png"><br>Knowmore</a><br>
       A booru-style site for tutorials and personal improvement</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/vuwnu/gunmetal"><img width="100px" src="https://gunmetal.vuw.nu/favicon.png"><br>Gunmetal</a><br>
       A smooth theme, usable across a wide variety of programs</td>
-    <td align="center"><a href="https://github.com/vuwnu/questline"><img width="100px" src="https://questline.vuw.nu/favicon.png"><br>Questline</a><br>
+    <td align="center"><a href="https://github.com/vuwnu/questline"><img width="100px" src="https://raw.githubusercontent.com/vuwnu/questline/master/dist/favicon.png"><br>Questline</a><br>
       A ever-expanding collection of interactive fiction set in the █████</td>
   </tr>
 </table>
