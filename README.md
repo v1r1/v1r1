@@ -22,9 +22,9 @@ let viri = {
       A booru-style site for tutorials and personal improvement</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/vuwnu/gunmetal">Gunmetal</a><br>
+    <td align="center"><a href="https://github.com/vuwnu/gunmetal"><img width="100px" src="https://gunmetal.vuw.nu/favicon.png"><br>Gunmetal</a><br>
       A smooth theme, usable across a wide variety of programs</td>
-    <td align="center"><a href="https://github.com/vuwnu/questline">Questline</a><br>
+    <td align="center"><a href="https://github.com/vuwnu/questline"><img width="100px" src="https://questline.vuw.nu/favicon.png"><br>Questline</a><br>
       A ever-expanding collection of interactive fiction set in the █████</td>
   </tr>
 </table>
