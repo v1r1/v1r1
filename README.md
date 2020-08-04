@@ -5,10 +5,11 @@ let viri = {
   age: 22,
   current_mood: 'tired',
   favourite: {
-    color: 'green',
+    color: 'Green',
     games: [ "Fallout: New Vegas", "World of Warcraft", "Prey", "NieR" ],
     tv_shows: [ "Mr. Robot", "Community", "Better Call Saul" ],
-    anime: [ "Mob Psycho 100", "Toppa Tengen Gurren Lagann", "Nichijou" ],
+    movies: [ "", "", "" ],
+    anime: [ "Mob Psycho 100", "Toppa Tengen Gurren Lagann", "Nichijou" ]
   }
 }
 ```
