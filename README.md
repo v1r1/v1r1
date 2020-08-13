@@ -23,14 +23,13 @@ let viri = {
       A serverless client-side framework built with Javascript, CSS and HTML</td>
     <td align="center"><a href="https://github.com/vuwnu/knowmore"><img width="100px" src="https://knowmore.vuw.nu/assets/images/favicon.png"><br>Knowmore</a><br>
       A booru-style site for tutorials and personal improvement</td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/vuwnu/gunmetal"><img width="100px" src="https://gunmetal.vuw.nu/favicon.png"><br>Gunmetal</a><br>
       A smooth theme, usable across a wide variety of programs</td>
+  </tr>
+  <tr>
+    
     <td align="center"><a href="https://github.com/vuwnu/questline"><img width="100px" src="https://raw.githubusercontent.com/vuwnu/questline/master/dist/favicon.png"><br>Questline</a><br>
       A ever-expanding collection of interactive fiction set in the █████</td>
-</tr>
-<tr>
     <td align="center"><a href="https://github.com/vuwnu/glif"><img width="100px" src=""><br>Glif</a><br>
       Easy to use icons built with CSS</td>
   <td align="center"><a href="https://github.com/vuwnu/suit"><img width="100px" src=""><br>Suit</a><br>
