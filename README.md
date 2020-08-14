@@ -17,7 +17,7 @@ let viri = {
 <hr>
 
 <details>
-  <h2><summary open align="center">things i'm working on</summary></h2>
+  <summary open align="center"><h2>things i'm working on</h2></summary>
 <table>
   <tr>
     <td align="center"><a href="https://github.com/vuwnu/zoon"><img width="100px" src="https://zoon.vuw.nu/favicon.png"><br>[zoon]</a><br>
