@@ -6,9 +6,9 @@ let viri = {
   current_mood: 'tired',
   favourite: {
     color: 'Green',
-    games: [ "Fallout: New Vegas", "World of Warcraft", "Prey", "NieR" ],
+    games: [ "Fallout: New Vegas", "World of Warcraft", "Prey", "NieR", "Bloodborne", "Dark Souls 3" ],
     tv_shows: [ "Mr. Robot", "Community", "Better Call Saul", "Dark" ],
-    movies: [ "", "", "" ],
+    movies: [ "Scott Pilgrim vs. the World", "", "" ],
     anime: [ "Mob Psycho 100", "Toppa Tengen Gurren Lagann", "Nichijou" ]
   }
 }
@@ -17,7 +17,7 @@ let viri = {
 <hr>
 
 <details>
-<summary open align="center">things i'm working on</summary>
+  <h2><summary open align="center">things i'm working on</summary></h2>
 <table>
   <tr>
     <td align="center"><a href="https://github.com/vuwnu/zoon"><img width="100px" src="https://zoon.vuw.nu/favicon.png"><br>[zoon]</a><br>
