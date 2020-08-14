@@ -38,6 +38,24 @@ let viri = {
   
 <hr>
 
+<details>
+  <summary>Click Here to get the user details</summary>
+   <table>
+      <tr>
+        <th>#</th>
+        <th>Name</th>
+        <th>Location</th>
+        <th>Job</th>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>Adam</td>
+        <td>Huston</td>
+        <td>UI/UX</td>
+      </tr>
+    </table>
+</details>
+
 <p align="center">
   check out my <a href="https://viri.space">website</a> 🔷
   follow me on <a href="https://twitter.com/_viri_">twitter</a> 🔶
