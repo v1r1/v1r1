@@ -16,7 +16,8 @@ let viri = {
 
 <hr>
 
-<h3 align="center">things i'm working on</h3>
+<details>
+<summary><h3 align="center">things i'm working on</h3></summary>
 <table>
   <tr>
     <td align="center"><a href="https://github.com/vuwnu/zoon"><img width="100px" src="https://zoon.vuw.nu/favicon.png"><br>[zoon]</a><br>
@@ -35,26 +36,9 @@ let viri = {
       System for theming and styling projects using CSS3 technology</td>
   </tr>
 </table>
+</details>
   
 <hr>
-
-<details>
-  <summary>Click Here to get the user details</summary>
-   <table>
-      <tr>
-        <th>#</th>
-        <th>Name</th>
-        <th>Location</th>
-        <th>Job</th>
-      </tr>
-      <tr>
-        <td>1</td>
-        <td>Adam</td>
-        <td>Huston</td>
-        <td>UI/UX</td>
-      </tr>
-    </table>
-</details>
 
 <p align="center">
   check out my <a href="https://viri.space">website</a> 🔷
