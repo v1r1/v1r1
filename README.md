@@ -42,6 +42,6 @@ let viri = {
 
 <p align="center">
   check out my <a href="https://viri.space">website</a> 🔷
-  follow me on <a href="https://twitter.com/_viri_">twitter</a> 🔶
+  follow me on <a href="https://twitter.com/_viri_">twitter</a> 🔷
   support me on <a href="https://patreon.com/vuwnu">patreon</a>
 </p>
