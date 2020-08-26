@@ -3,12 +3,12 @@
 ```javascript
 let viri = {
   age: 22,
-  current_mood: 'tired',
+  current_mood: 'Curious',
   favourite: {
     color: 'Green',
     games: [ "Fallout: New Vegas", "World of Warcraft", "Prey", "NieR", "Bloodborne", "Dark Souls 3" ],
     tv_shows: [ "Mr. Robot", "Community", "Better Call Saul", "Dark" ],
-    movies: [ "Scott Pilgrim vs. the World", "", "" ],
+    movies: [ "Scott Pilgrim vs. the World", "Hot Fuzz", "Drive" ],
     anime: [ "Mob Psycho 100", "Toppa Tengen Gurren Lagann", "Nichijou" ]
   }
 }
@@ -32,7 +32,7 @@ let viri = {
       A ever-expanding collection of interactive fiction set in the █████</td>
     <td align="center"><a href="https://github.com/vuwnu/glif"><img width="100px" src=""><br>Glif</a><br>
       Easy to use icons built with CSS</td>
-  <td align="center"><a href="https://github.com/vuwnu/suit"><img width="100px" src=""><br>Suit</a><br>
+  <td align="center"><a href="https://github.com/vuwnu/suit"><img width="100px" src=""><br>Flair</a><br>
       System for theming and styling projects using CSS3 technology</td>
   </tr>
 </table>
