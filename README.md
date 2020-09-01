@@ -3,7 +3,7 @@
 ```javascript
 let viri = {
   age: 22,
-  current_mood: 'Curious',
+  current_mood: 'Optimistic',
   favourite: {
     color: 'Green',
     games: [ "Fallout: New Vegas", "World of Warcraft", "Prey", "NieR", "Bloodborne", "Dark Souls 3" ],
