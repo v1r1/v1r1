@@ -19,7 +19,7 @@ let viri = {
 <table>
   <tr>
     <td align="center"><a href="https://github.com/vuwnu/zoon"><img width="100px" src="https://zoon.vuw.nu/icon.png"><br>[zoon]</a><br>
-      A serverless client-side framework built with Javascript, CSS and HTML</td>
+      A collection of web components built with Javascript, CSS and HTML</td>
     <td align="center"><a href="https://github.com/vuwnu/knowmore"><img width="100px" src="https://knowmore.vuw.nu/icon.png"><br>Knowmore</a><br>
       A booru-style site for tutorials and personal improvement</td>
     <td align="center"><a href="https://github.com/vuwnu/gunmetal"><img width="100px" src="https://gunmetal.vuw.nu/icon.png"><br>Gunmetal</a><br>
