@@ -18,7 +18,7 @@ let viri = {
 <h3 align="center">what i'm working on</h3>
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/vuwnu/zoon"><img width="100px" src="https://zoon.vuw.nu/icon.png"><br>[zoon]</a><br>
+    <td align="center"><a href="https://github.com/vuwnu/zoon"><img width="100px" src="https://zoon.vuw.nu/icon.png"><br>Zoon</a><br>
       A collection of web components built with Javascript, CSS and HTML</td>
     <td align="center"><a href="https://github.com/vuwnu/knowmore"><img width="100px" src="https://knowmore.vuw.nu/icon.png"><br>Knowmore</a><br>
       A booru-style site for tutorials and personal improvement</td>
