@@ -21,12 +21,12 @@ let viri = {
     <td align="center"><a href="https://github.com/vuwnu/zoon"><img width="100px" src="https://zoon.vuw.nu/icon.png"><br>Zoon</a><br>
       A collection of open-ended web components made for easily building advanced web apps. Built with Javascript, CSS and HTML</td>
     <td align="center"><a href="https://github.com/vuwnu/knowmore"><img width="100px" src="https://knowmore.vuw.nu/icon.png"><br>Knowmore</a><br>
-      A booru-style site for tutorials and personal improvement</td>
+      A booru-style site hosting posts ranging from tutorials to collections of URLs</td>
     <td align="center"><a href="https://github.com/vuwnu/gunmetal"><img width="100px" src="https://gunmetal.vuw.nu/icon.png"><br>Gunmetal</a><br>
       A smooth theme, usable across a wide variety of programs</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/vuwnu/questline"><img width="100px" src="https://raw.githubusercontent.com/vuwnu/questline/master/dist/favicon.png"><br>Questline</a><br>
+    <td align="center"><a href="https://github.com/vuwnu/questline"><img width="100px" src="https://questline.vuw.nu/favicon.png"><br>Questline</a><br>
       A ever-expanding collection of interactive fiction set in the █████</td>
     <td align="center"><a href="https://github.com/vuwnu/glif"><img width="100px" src=""><br>Glif</a><br>
       Easy to use icons built with CSS</td>
