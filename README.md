@@ -28,9 +28,9 @@ let viri = {
   <tr>
     <td align="center"><a href="https://github.com/vuwnu/questline"><img width="100px" src="https://questline.vuw.nu/favicon.png"><br>Questline</a><br>
       A ever-expanding collection of interactive fiction set in the █████</td>
-    <td align="center"><a href="https://github.com/vuwnu/glif"><img width="100px" src=""><br>Glif</a><br>
+    <td align="center"><a href="https://github.com/vuwnu/glif"><img width="100px" src="https://gunmetal.vuw.nu/icon.png"><br>Glif</a><br>
       Easy to use icons built with CSS</td>
-  <td align="center"><a href="https://github.com/vuwnu/gluey"><img width="100px" src=""><br>Gluey</a><br>
+    <td align="center"><a href="https://github.com/vuwnu/gluey"><img width="100px" src="https://gunmetal.vuw.nu/icon.png"><br>Gluey</a><br>
       System for theming and styling projects using CSS3 technology</td>
   </tr>
 </table>
