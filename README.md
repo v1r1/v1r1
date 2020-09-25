@@ -16,7 +16,7 @@ let viri = {
 
 <hr>
 <h3 align="center">what i'm working on</h3>
-<table>
+<table style="table-layout: fixed;">
   <tr>
     <td align="center"><a href="https://github.com/vuwnu/zoon"><img width="100px" src="https://zoon.vuw.nu/icon.png"><br>Zoon</a><br>
       A collection of open-ended web components made for easily building advanced web apps. Built with Javascript, CSS and HTML</td>
