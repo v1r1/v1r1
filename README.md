@@ -26,7 +26,7 @@ let viri = {
       A smooth minimalistic theme, available for use in a wide variety of programs and sites</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/vuwnu/questline"><img width="100px" src="https://questline.vuw.nu/favicon.png"><br>Questline</a><br>
+    <td align="center"><a href="https://github.com/vuwnu/questline"><img width="100px" src="http://vuwnu.cloud/i/questline.png"><br>Questline</a><br>
       A ever-expanding collection of interactive fiction set in the █████</td>
     <td align="center"><a href="https://github.com/vuwnu/glif"><img width="100px" src="http://vuwnu.cloud/i/unknown.png"><br>Glif</a><br>
       Easy to use SVG icons built for a variety of uses within your project</td>
