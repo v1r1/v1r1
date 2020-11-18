@@ -31,7 +31,7 @@ let viri = {
     <td align="center"><a href="https://github.com/vuwnu/glif"><img width="100px" src="http://vuwnu.cloud/i/unknown.png"><br>Glif</a><br>
       Easy to use SVG icons built for a variety of uses within your project</td>
     <td align="center"><a href="https://github.com/vuwnu/gluey"><img width="100px" src="http://vuwnu.cloud/i/unknown.png"><br>Gluey</a><br>
-      System for theming and styling projects using CSS3 technology</td>
+      Framework made for easily theming and styling projects using CSS3 technology</td>
   </tr>
 </table>
   
