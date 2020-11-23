@@ -23,7 +23,7 @@ let viri = {
     <td align="center"><a href="https://github.com/vuwnu/knowmore"><img width="100px" src="https://knowmore.vuw.nu/icon.png"><br>Knowmore</a><br>
       An easy to explore site hosting tagged posts with helpful information and tutorials</td>
     <td align="center"><a href="https://github.com/vuwnu/gunmetal"><img width="100px" src="https://gunmetal.vuw.nu/icon.png"><br>Gunmetal</a><br>
-      A smooth minimalistic theme, available for use in a wide variety of programs and sites</td>
+      A smooth minimalistic dark theme, available for use in a wide variety of programs and sites</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/vuwnu/questline"><img width="100px" src="http://vuwnu.cloud/i/questline.png"><br>Questline</a><br>
