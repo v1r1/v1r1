@@ -38,7 +38,7 @@ let viri = {
 <hr>
 
 <p align="center">
-  check out my <a href="https://viri.space">website</a>! 🔷
+  check out my <a href="https://viri.space">website</a> 🔷
   follow me on <a href="https://twitter.com/_viri_">twitter</a> 🔷
   support me on <a href="https://patreon.com/vuwnu">patreon</a>
 </p>
