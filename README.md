@@ -27,7 +27,7 @@ let viri = {
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/vuwnu/questline"><img width="100px" src="http://vuwnu.cloud/i/questline.png"><br>Questline</a><br>
-      An ever-expanding collection of interactive fiction set in the Vuwn Universe</td>
+      An ever-expanding collection of interactive fiction set in the Vuwnu Universe</td>
     <td align="center"><a href="https://github.com/vuwnu/glif"><img width="100px" src="http://vuwnu.cloud/i/unknown.png"><br>Glif</a><br>
       Easy to use SVG icons built for a variety of uses within your project</td>
     <td align="center"><a href="https://github.com/vuwnu/gluey"><img width="100px" src="http://vuwnu.cloud/i/unknown.png"><br>Gluey</a><br>
