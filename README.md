@@ -6,7 +6,7 @@ let viri = {
   current_mood: 'Excited',
   favourite: {
     color: 'Green',
-    games: [ "Fallout: New Vegas", "World of Warcraft", "Prey", "NieR", "Bloodborne", "Dark Souls 3" ],
+    games: [ "Fallout: New Vegas", "World of Warcraft", "Prey", "NieR", "Bloodborne", "Dark Souls3" ],
     tv_shows: [ "Mr. Robot", "Community", "Better Call Saul", "Dark" ],
     movies: [ "Scott Pilgrim vs. the World", "Hot Fuzz", "Drive" ],
     anime: [ "Mob Psycho 100", "Toppa Tengen Gurren Lagann", "FLCL", "Nichijou" ]
