@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/v1r1/imgs-with-transparent-backgrounds/blob/master/games/gifs/john_typing.gif?raw=true" height="200"></p>
+<p align="center"><img src="https://github.com/v1r1/imgs-with-transparent-backgrounds/blob/master/games/gifs/john_typing.gif?raw=true" height="210"></p>
 
 ```javascript
 let viri = {
