@@ -22,7 +22,7 @@ let viri = {
     <td align="center"><a href="https://github.com/vuwnu/zoon"><img width="100px" src="https://zoon.vuw.nu/icon.png"><br>Zoon</a><br>
       A collection of open-ended web components made for easily building complex web apps</td>
     <td align="center"><a href="https://github.com/vuwnu/knowmore"><img width="100px" src="https://knowmore.vuw.nu/icon.png"><br>Knowmore</a><br>
-      An easy to explore site hosting tagged posts with helpful information and tutorials</td>
+      An easy to explore site hosting a wide variety of tagged posts with helpful information and tutorials</td>
     <td align="center"><a href="https://github.com/vuwnu/gunmetal"><img width="100px" src="https://gunmetal.vuw.nu/icon.png"><br>Gunmetal</a><br>
       A smooth minimalistic dark theme, available for use in a wide variety of programs and sites</td>
   </tr>
