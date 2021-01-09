@@ -2,7 +2,7 @@
 
 ```javascript
 let viri = {
-  age: 22,
+  age: 23,
   current_mood: 'Optimistic',
   favourite: {
     color: 'Green',
