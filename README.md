@@ -19,8 +19,8 @@ let viri = {
 <h3 align="center">what i'm working on</h3>
 <table style="table-layout:fixed;">
   <tr>
-    <td align="center"><a href="https://github.com/vuwnu/zoon"><img width="100px" src="https://zoon.vuw.nu/icon.png"><br>Zoon</a><br>
-      A collection of open-ended web components made for easily building complex web apps</td>
+    <td align="center"><a href="https://github.com/vuwnu/shyphen"><img width="100px" src="https://zoon.vuw.nu/icon.png"><br>Shyphen</a><br>
+      A web toolkit for easily building unique and interactive websites or web apps</td>
     <td align="center"><a href="https://github.com/vuwnu/knowmore"><img width="100px" src="https://knowmore.vuw.nu/icon.png"><br>Knowmore</a><br>
       An easy to explore site hosting a wide variety of tagged posts with helpful information and tutorials</td>
     <td align="center"><a href="https://github.com/vuwnu/gunmetal"><img width="100px" src="https://gunmetal.vuw.nu/icon.png"><br>Gunmetal</a><br>
@@ -29,10 +29,10 @@ let viri = {
   <tr>
     <td align="center"><a href="https://github.com/questline"><img width="100px" src="http://vuwnu.cloud/i/questline.png"><br>Questline</a><br>
       An ever-expanding collection of interactive fiction set in the Vuwnu Universe</td>
-    <td align="center"><a href="https://github.com/vuwnu/glif"><img width="100px" src="http://vuwnu.cloud/i/unknown.png"><br>Discons</a><br>
-      Easy to use SVG icons built for a variety of uses within your project</td>
-    <td align="center"><a href="https://github.com/vuwnu/gluey"><img width="100px" src="http://vuwnu.cloud/i/unknown.png"><br>Gluey</a><br>
-      Framework made for easily theming and styling projects using CSS3 technology</td>
+    <td align="center"><a href="https://github.com/vuwnu/glif"><img width="100px" src="http://vuwnu.cloud/i/unknown.png"><br>TBD</a><br>
+      ??????? ???????????? ???????????? ???????????????????????? ????? ???????????????????</td>
+    <td align="center"><a href="https://github.com/vuwnu/gluey"><img width="100px" src="http://vuwnu.cloud/i/unknown.png"><br>TBD</a><br>
+      ??? ???????????? ???????????? ????????????? ?????????????????? ???????? ?????</td>
   </tr>
 </table>
   
