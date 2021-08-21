@@ -19,7 +19,7 @@ let viri = {
 <h3 align="center">what i'm working on</h3>
 <table style="table-layout:fixed;">
   <tr>
-    <td align="center"><a href="https://github.com/vuwnu/shyphen"><img width="100px" src="blob:https://imgur.com/441a65e4-79d5-400c-8857-0fe13b47a3e8"><br>Shyphen</a><br>
+    <td align="center"><a href="https://github.com/vuwnu/shyphen"><img width="100px" src="https://i.imgur.com/ydVyqo3.png"><br>Shyphen</a><br>
       A web toolkit for easily building unique and interactive websites or web apps</td>
     <td align="center"><a href="https://github.com/vuwnu/knowmore"><img width="100px" src="https://knowmore.vuw.nu/icon.png"><br>Knowmore</a><br>
       An easy to explore site hosting a wide variety of tagged posts with helpful information and tutorials</td>
