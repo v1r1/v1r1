@@ -26,10 +26,6 @@ let viri = {
     <td align="center"><a href="https://github.com/vuwnu/gunmetal"><img width="100px" src="https://gunmetal.vuw.nu/icon.png"><br>Gunmetal</a><br>
       A smooth minimalistic dark theme, available for use in a wide variety of programs and sites</td>
   </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/questline"><img width="100px" src="http://vuwnu.cloud/i/questline.png"><br>Questline</a><br>
-      An ever-expanding collection of interactive fiction set in the Vuwnu Universe</td>
-  </tr>
 </table>
   
 <hr>
