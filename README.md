@@ -2,11 +2,11 @@
 
 ```javascript
 let veerie = {
-  age: 25,
-  current_mood: 'Optimistic',
+  age: 26,
+  current_mood: 'Motivated',
   favourite: {
-    color: 'Green',
-    games: [ "Fallout: New Vegas", "World of Warcraft", "Prey", "NieR", "Bloodborne", "Dark Souls 3", "Mass Effect 2" ],
+    color: 'Black',
+    games: [ "Fallout", "Warcraft", "Prey", "NieR", "Bloodborne", "Dark Souls", "Mass Effect", "Like a Dragon" ],
     tv_shows: [ "Mr. Robot", "Community", "Breaking Bad", "Better Call Saul", "Dark" ],
     movies: [ "Scott Pilgrim vs. the World", "Hot Fuzz", "Drive" ],
     anime: [ "Mob Psycho 100", "Toppa Tengen Gurren Lagann", "FLCL", "Nichijou", "Attack on Titan" ]
@@ -31,7 +31,6 @@ let veerie = {
 <hr>
 
 <p align="center">
-  check out my <a href="https://viri.space">website</a> 🔷
-  follow me on <a href="https://twitter.com/_viri_">twitter</a> 🔷
-  support me on <a href="https://patreon.com/vuwnu">patreon</a>
+  check out my <a href="https://veerie.me">website</a> 🔷
+  follow me on <a href="https://twitter.com/_veerie">twitter</a>
 </p>
