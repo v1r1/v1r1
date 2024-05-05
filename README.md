@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./header.svg" height="210">
+</p>
 
 ```javascript
 let veerie = {
