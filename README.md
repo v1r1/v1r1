@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" height="210">
+  <img src="https://i.imgur.com/SRmL0Ru.gif" height="300">
 </p>
 
 ```javascript
